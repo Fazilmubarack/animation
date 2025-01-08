@@ -1,0 +1,41 @@
+.bg-container{
+    text-align:center;
+    background-image:url("http://www.baltana.com/files/wallpapers-2/Soccer-Desktop-Wallpaper-04302.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.items{
+    text-align:center;
+}
+
+.col{
+    color:lightgreen;
+
+}
+.col1{
+    color:whitesmoke;
+
+}
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+    margin-top: 2rem;
+}
+
+footer ul {
+    list-style: none;
+    padding: 0;
+    text-align:center;
+}
+
+footer li {
+    margin: 0.5rem 0;
+
+}
+
+footer h2 {
+    margin-bottom: 1rem;
+    color: #ffcc00;
+}
